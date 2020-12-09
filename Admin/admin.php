@@ -29,7 +29,7 @@
       .form {
         opacity: 90%;
         background-color: antiquewhite;
-        width: 30%;
+        width: 31%;
       }
       @media only screen and (max-width: 600px) {
         .form{
